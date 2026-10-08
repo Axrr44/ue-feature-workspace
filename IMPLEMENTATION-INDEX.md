@@ -8,7 +8,7 @@ and keep earlier outcomes when revising one.
 
 | id | client task name | track | game | received | delivered | hours | AI cost | status | milestone/payment | notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| IMP-001 | not received | unknown | unknown | | | | | awaiting task | Milestone 1 "First Task", $400.00, due 2026-10-09; offer note says "project funds $400.00" | first task and project access asked for 2026-10-08 |
+| IMP-001 | "Add navigation that updates around moved props" (the brief's Overview line; no separate title given) | not stated by the client | "An immersive simulation existing video game", repo `immersive-sim-axrr44` | 2026-10-08 | | | | received 11:56; repo not cloned yet | Milestone 1 "First Task", $400.00, due 2026-10-09; offer note says "project funds $400.00" | first task and project access asked for 2026-10-08. Brief in `private/IMP-001/brief.md`. PDF: up to 50 USD AI reimbursement per task on top of the $400 |
 
 - **id**: `IMP-001`, `IMP-002`, and so on, in the order received.
 - **client task name**: exactly as the client wrote it.

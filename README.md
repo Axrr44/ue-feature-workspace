@@ -1,7 +1,8 @@
 # UE Feature Workspace
 
-My working folder for Inception Technologies feature implementations. **Start agent sessions
-here.**
+My working folder for Inception Technologies feature implementations. **Start admin sessions
+here.** Task sessions start in the client project folder instead; see "Task workflow" in
+`CLAUDE.md`.
 
 `CLAUDE.md` links to `../Inception-UE-Workflow/CLAUDE.md`, which holds the rules. `AGENTS.md`
 links to `CLAUDE.md`. The machine profile (paths, engine, identity) is
