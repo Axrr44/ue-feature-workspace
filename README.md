@@ -6,7 +6,8 @@ here.**
 `CLAUDE.md` links to `../Inception-UE-Workflow/CLAUDE.md`, which holds the rules. `AGENTS.md`
 links to `CLAUDE.md`. The machine profile (paths, engine, identity) is
 `../Inception-UE-Workflow/.local/workspace.json`. This repo tracks only this README, the ledger
-and its git files. It is local, with no remote.
+and its git files. Its remote is the private GitHub repo
+`https://github.com/Axrr44/ue-feature-workspace`. I push; agents never do.
 
 | Path | Holds | Tracked |
 |---|---|---|
