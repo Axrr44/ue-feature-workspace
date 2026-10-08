@@ -1,0 +1,25 @@
+# Client projects and repos. Each keeps its own repo or workspace, as delivered.
+/delivery/
+# Receipts, notes and evidence. Never delivered, never committed.
+/private/
+# Throwaway.
+/scratch/
+
+# Unreal output and content, in case a project lands at the root by mistake.
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+*.uproject
+*.uasset
+*.umap
+
+# Editor, tool and OS junk
+.claude/settings.local.json
+.env
+.env.*
+*.stackdump
+Thumbs.db
+desktop.ini

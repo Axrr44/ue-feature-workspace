@@ -1,0 +1,3 @@
+# Store and check out LF. The system git config here sets core.autocrlf=true, which would
+# otherwise write CRLF into the working tree.
+* text=auto eol=lf
